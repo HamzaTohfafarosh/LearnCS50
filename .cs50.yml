@@ -3,3 +3,8 @@ lab50:
     - editor
     - readme
     - terminal
+ lab50:
+  files:
+    - !include foo.c
+    - !include foo.h
+  
